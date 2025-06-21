@@ -100,32 +100,6 @@ npm run build
 npm start
 \`\`\`
 
-## 🎯 Key Components
-
-### **Dashboard Overview**
-- Social media platform statistics
-- Follower growth tracking
-- Engagement metrics
-- Quick action buttons
-
-### **Analytics Dashboard**
-- Detailed performance charts
-- Engagement rate analysis
-- Growth trend visualization
-- Export functionality
-
-### **Content Management**
-- Post scheduling interface
-- Draft management system
-- Media upload and organization
-- Content calendar view
-
-### **Team Management**
-- User role assignment
-- Permission management
-- Activity monitoring
-- Team communication tools
-
 ## 🌟 Highlights
 
 ### **Performance Optimized**
